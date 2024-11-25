@@ -1,7 +1,7 @@
 public class InheritanceSample {
     public static void main(String[] args) {
        
-        Student student = new Student("Villalobos Lawrence C.", "Pantay, Calaca, Batangas ", "BSIT", 2);
+        Student student = new Student("Riosa, Marco M.", "Salong, Calaca City, Batangas ", "BSIT", 2);
         student.displayInfo();
 
      
